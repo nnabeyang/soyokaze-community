@@ -1,7 +1,7 @@
 # soyokaze-community
 
-This repository serves as a place where Soyokaze users can post their requests or questions.
+Soyokaze を使っている方が、要望や質問を投稿するためのリポジトリです。
 
-## How to Use
+## 使い方
 
-- Submit your requests or questions via [New Issue](https://github.com/nnabeyang/soyokaze-community/issues/new/choose).
+- 要望や質問は、[New Issue](https://github.com/nnabeyang/soyokaze-community/issues/new/choose) から投稿してください。
